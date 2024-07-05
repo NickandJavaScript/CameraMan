@@ -2,22 +2,13 @@ CameraMan (Center Stage) Documentation
 
 Author: Nicolas Rodriguez
 
-Scope of Work
-1. Standard byte codes implemented
+To Run Code:
+1. Download/Install Python3 
 
-2. CodeTable implemented
+2. Download/Install OpenCV
 
-3. ByteCodeLoader implemented
+3. Download/Install Mediapipe with tensor flow
 
-4. Program implemented
+4. Download/Install SSD-Mobilenet-v2 Nvidia objection dection libary
 
-5. RuntimeStack implemented
-
-6. New bytecode implemented (DMP)
-
-7. Output correct (for byte codes)
-
-8. Output correct (for runtime stack)
-
-
-
+5. Download/Install v4l2
