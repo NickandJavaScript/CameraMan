@@ -1,4 +1,5 @@
-CameraMan (Center Stage) Documentation
+CameraMan (Center Stage) Documentation:
+  This program works as a Center Stage, using any webcam connected to your PC. Limitations when their are multiple people in frame the camera frame will just go to its default (widest) frame. Using face detection and body detection.
 
 Author: Nicolas Rodriguez
 
